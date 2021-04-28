@@ -1,0 +1,7 @@
+D:\workspace\chn_prueba\chn_prueba\chn_prueba\bin\chn_prueba.dll.config
+D:\workspace\chn_prueba\chn_prueba\chn_prueba\bin\chn_prueba.dll
+D:\workspace\chn_prueba\chn_prueba\chn_prueba\bin\chn_prueba.pdb
+D:\workspace\chn_prueba\chn_prueba\chn_prueba\obj\Debug\chn_prueba.csprojAssemblyReference.cache
+D:\workspace\chn_prueba\chn_prueba\chn_prueba\obj\Debug\chn_prueba.csproj.CoreCompileInputs.cache
+D:\workspace\chn_prueba\chn_prueba\chn_prueba\obj\Debug\chn_prueba.dll
+D:\workspace\chn_prueba\chn_prueba\chn_prueba\obj\Debug\chn_prueba.pdb
